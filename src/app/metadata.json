@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Homepage",
+    "route": "/",
+    "title": "Homepage | create-a-professional-6938",
+    "description": "Homepage page for create-a-professional-6938"
+  },
+  {
+    "name": "Services",
+    "route": "/services",
+    "title": "Services | create-a-professional-6938",
+    "description": "Services page for create-a-professional-6938"
+  }
+]
